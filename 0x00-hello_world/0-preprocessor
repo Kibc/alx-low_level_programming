@@ -1,0 +1,2 @@
+#!/bin/bas/bash
+gcc -E $CFILE >> c
